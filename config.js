@@ -12,13 +12,13 @@ module.exports = {
   embedColor: "#1db954",
   activityName: "YouTube Music", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
-  SupportServer: "https://discord.gg/xQF9f9yUEM",
+  SupportServer: "https://discord.gg/pCREeGpeuf",
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
      {
-      name: "GlaceYT",
-      password: "glaceyt",
+      name: "AR",
+      password: "AR847",
       host: "193.226.78.187",
       port:  9372,
       secure: false
